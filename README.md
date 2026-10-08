@@ -78,6 +78,8 @@ program21.exe        # Windows
  ┗ 📄 README.md
 ```
 
+➡️ Next up: [ Pattern Printing ]()
+
 ---
 
 <div align="center">
