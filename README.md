@@ -44,9 +44,9 @@ git clone https://github.com/<your-username>/<your-repo>.git
 cd <your-repo>
 
 # Compile and run any program (example: Q21)
-gcc program_21.c -o program_21
-./program_21          # Linux / macOS
-program_21.exe        # Windows
+gcc program21.c -o program21
+./program21          # Linux / macOS
+program21.exe        # Windows
 ```
 
 > 💡 **Requirement:** any C compiler such as GCC, Clang, or Code::Blocks.
@@ -82,7 +82,7 @@ program_21.exe        # Windows
 
 <div align="center">
 
-### 💖 Made with passion by **[Your Name](https://github.com/your-username)**
+### 💖 Made with passion by **[Ankit Prajapati](https://github.com/ankitprajapati95199)**
 
 *Happy Coding! Keep looping, keep learning.* 🔁
 
