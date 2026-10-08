@@ -40,7 +40,7 @@
 
 ```bash
 # Clone the repository
-git clone https://github.com/<your-username>/<your-repo>.git
+git clone https://github.com/<ankitprajapati95199>/<Loops-in-c>.git
 cd <your-repo>
 
 # Compile and run any program (example: Q21)
